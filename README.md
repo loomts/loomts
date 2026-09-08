@@ -1,3 +1,5 @@
 Welcome to contact me with <loomt_@outlook.com> :D
 
-![dakta's GitHub stats](https://github-readme-stats.vercel.app/api?username=loomts&show_icons=true&theme=tokyonight)
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img src="https://github-stats-extended.vercel.app/api?username=loomts&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" alt="loomts's GitHub stats">
+</a>
